@@ -2,6 +2,7 @@
 
 int main(void)
 {
+    printf("Test a new feature")
     printf("\nHello World");
 }
 
