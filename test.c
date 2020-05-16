@@ -4,7 +4,6 @@ int main(void)
 {
     printf("\nHello World");
     printf("GIT");
-    printf("Added a branch");
 }
 
 // adding a new function
